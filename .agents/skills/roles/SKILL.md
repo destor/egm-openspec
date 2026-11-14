@@ -1,5 +1,6 @@
 ---
 name: roles
+license: Apache-2.0
 description: Internal role prompts for the subagents that sdd-orchestrate and sdd-quick spawn — coder, reviewer, security auditor, style auditor. Not run directly; the orchestrating skill tells each subagent which role file to read.
 ---
 

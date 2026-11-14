@@ -1,5 +1,6 @@
 ---
 name: sdd-quick
+license: Apache-2.0
 description: Runs a small task or a bug fix through the full implementation cycle without an OpenSpec change — clarifies it, checks its size (redirects to the spec flow when it is too large or changes specified behaviour), agrees a short plan with the user, then delegates to a fresh coder (red → green at an agreed seam) with review and gates, a manual check, and a commit. Use when the user asks to fix a bug or do a small, self-contained task through the quality cycle.
 argument-hint: The bug or task to work on.
 ---

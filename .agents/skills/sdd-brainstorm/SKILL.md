@@ -1,5 +1,6 @@
 ---
 name: sdd-brainstorm
+license: Apache-2.0
 description: Interactive ideation and brainstorming skill. Helps turn half-baked concepts into structured hypotheses via clarifying questions, fresh-context Goldfish review, and iterative refinement. Produces an OpenSpec change proposal that leads into sdd-create-spec. Use when user wants to stress-test a plan, get grilled on their design, or mentions "grill me", "spar about", "brainstorm", or "sdd brainstorm".
 ---
 

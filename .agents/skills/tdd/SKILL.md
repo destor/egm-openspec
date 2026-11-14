@@ -1,5 +1,6 @@
 ---
 name: tdd
+license: MIT
 description: Internal reference for test-driven development at agreed seams, used by the sdd-* skills. The reference for what a good test is, where tests go (seams and the project's seam registry), the anti-patterns (implementation-coupled, tautological, horizontal slicing) and the red → green loop. Use when writing or reviewing tests, when agreeing test seams in sdd-create-spec, when planning tests in sdd-spec-to-tasks, or when implementing an OpenSpec task.
 ---
 

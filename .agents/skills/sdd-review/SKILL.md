@@ -1,5 +1,6 @@
 ---
 name: sdd-review
+license: Apache-2.0
 description: Goldfish review gate for an OpenSpec change. Spec mode reviews proposal.md, the spec deltas and design.md in four fresh-context stages (Zoom Out, Comprehension, Critic, Intermediate Zoom Out) before tasks are written; tasks mode runs the Implementation Readiness review on tasks.md and task-details/ before implementation. Findings are resolved with the author. Use after sdd-create-spec or sdd-spec-to-tasks, or when the user asks to review a change.
 ---
 

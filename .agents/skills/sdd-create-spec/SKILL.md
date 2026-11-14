@@ -1,5 +1,6 @@
 ---
 name: sdd-create-spec
+license: Apache-2.0
 description: Collaborative spec drafting that clarifies a request through conversation (or synthesizes decisions already settled in sdd-brainstorm), researches as needed, lets the author decide architecture, and writes the feature-spec half of an OpenSpec change (proposal.md + spec deltas + design.md) one approved artifact at a time. Use when the user wants to refine scope before coding, asks for a spec or design, or asks for a concrete implementation plan.
 ---
 

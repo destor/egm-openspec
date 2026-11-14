@@ -1,5 +1,6 @@
 ---
 name: sdd-orchestrate
+license: Apache-2.0
 description: Executes an approved OpenSpec change by working through tasks.md and its task-details files — delegates each task to a fresh coder subagent that writes tests red → green at the task's seam, runs a functional review per task, a security advisory and gate per phase with #security tasks, and a style gate per change, checks boxes, commits at checkpoints, verifies, gates on the user's manual checks, then archives. Use when a change's spec and tasks are approved and ready for implementation.
 argument-hint: The id of the OpenSpec change to execute.
 ---

@@ -1,5 +1,6 @@
 ---
 name: sdd-spec-to-tasks
+license: Apache-2.0
 description: Turns an approved OpenSpec spec (proposal.md + spec deltas + design.md) into the implementation-plan half of the change — a phased tasks.md checklist plus one task-details file per task with files, rationale and test cases — leaving zero design decisions to the implementer. Use when a change's spec is approved and the user wants it decomposed into implementation-ready tasks.
 ---
 
